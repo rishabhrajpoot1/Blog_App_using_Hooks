@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Blog_App_using_Hooks/static/css/main.5a809105.chunk.css",
-    "main.js": "/Blog_App_using_Hooks/static/js/main.ea46188c.chunk.js",
-    "main.js.map": "/Blog_App_using_Hooks/static/js/main.ea46188c.chunk.js.map",
-    "runtime-main.js": "/Blog_App_using_Hooks/static/js/runtime-main.508de8ea.js",
-    "runtime-main.js.map": "/Blog_App_using_Hooks/static/js/runtime-main.508de8ea.js.map",
-    "static/css/2.053fa5b4.chunk.css": "/Blog_App_using_Hooks/static/css/2.053fa5b4.chunk.css",
-    "static/js/2.ce17f85d.chunk.js": "/Blog_App_using_Hooks/static/js/2.ce17f85d.chunk.js",
-    "static/js/2.ce17f85d.chunk.js.map": "/Blog_App_using_Hooks/static/js/2.ce17f85d.chunk.js.map",
-    "index.html": "/Blog_App_using_Hooks/index.html",
-    "static/css/2.053fa5b4.chunk.css.map": "/Blog_App_using_Hooks/static/css/2.053fa5b4.chunk.css.map",
-    "static/css/main.5a809105.chunk.css.map": "/Blog_App_using_Hooks/static/css/main.5a809105.chunk.css.map",
-    "static/js/2.ce17f85d.chunk.js.LICENSE.txt": "/Blog_App_using_Hooks/static/js/2.ce17f85d.chunk.js.LICENSE.txt"
+    "main.css": "/Conduit-App/static/css/main.5a809105.chunk.css",
+    "main.js": "/Conduit-App/static/js/main.ea46188c.chunk.js",
+    "main.js.map": "/Conduit-App/static/js/main.ea46188c.chunk.js.map",
+    "runtime-main.js": "/Conduit-App/static/js/runtime-main.af553bec.js",
+    "runtime-main.js.map": "/Conduit-App/static/js/runtime-main.af553bec.js.map",
+    "static/css/2.053fa5b4.chunk.css": "/Conduit-App/static/css/2.053fa5b4.chunk.css",
+    "static/js/2.ce17f85d.chunk.js": "/Conduit-App/static/js/2.ce17f85d.chunk.js",
+    "static/js/2.ce17f85d.chunk.js.map": "/Conduit-App/static/js/2.ce17f85d.chunk.js.map",
+    "index.html": "/Conduit-App/index.html",
+    "static/css/2.053fa5b4.chunk.css.map": "/Conduit-App/static/css/2.053fa5b4.chunk.css.map",
+    "static/css/main.5a809105.chunk.css.map": "/Conduit-App/static/css/main.5a809105.chunk.css.map",
+    "static/js/2.ce17f85d.chunk.js.LICENSE.txt": "/Conduit-App/static/js/2.ce17f85d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.508de8ea.js",
+    "static/js/runtime-main.af553bec.js",
     "static/css/2.053fa5b4.chunk.css",
     "static/js/2.ce17f85d.chunk.js",
     "static/css/main.5a809105.chunk.css",
